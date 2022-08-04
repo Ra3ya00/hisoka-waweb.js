@@ -37,10 +37,10 @@ global.options = {
     mute: false,
     public: true
 }
-global.owner = ["6288292024190","6285784918313"]
-global.sessionName = "hisoka"
-global.packname = "hisoka-waweb.js"
-global.author = "Dika Ardnt."
+global.owner = ["966547169636","966547169636"]
+global.sessionName = "luffy"
+global.packname = "luffy"
+global.author = "luffy."
 
 
 function nocache(module, cb = () => {}) {
